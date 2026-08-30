@@ -96,6 +96,17 @@ Before running the project, make sure you have:
 
 You also need to have the required Ollama model installed.
 
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/MickyMaikash/AI-Resume-Analyzer.git
+```
+and Then 
+```bash
+cd AI-Resume-Analyzer
+```
+
 ## Backend Setup
 
 Open a terminal and go to the backend folder:
@@ -169,7 +180,7 @@ Open the URL shown by Vite in your browser.
 1. Open the frontend.
 2. Upload your resume as a PDF.
 3. Paste the job description.
-4. Click **Submit**.
+4. Click **Analyze Resume**.
 5. The backend extracts the resume text.
 6. The AI analyzes the resume against the job description.
 7. The result is displayed in the frontend.
