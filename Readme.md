@@ -206,6 +206,46 @@ The temporary PDF file is deleted after the request finishes, including when an 
 
 Do not commit API keys, environment variables, virtual environments, or uploaded resumes to GitHub.
 
+## Screenshots
+
+### 1. Home / Introduction
+
+![Home](screenshots/home_intro.png)
+
+### 2. Resume Analyzer
+
+![Analyzer](screenshots/Analyze.png)
+
+### 3. Footer
+
+![Footer](screenshots/footer.png)
+
+### 4. Loading Screen
+
+![Loading Screen](screenshots/ResultLoading.png)
+
+### 5. Analysis Result — Overview
+
+![Result Overview](screenshots/result1.png)
+
+### 6. Analysis Result — Skills
+
+![Result Skills](screenshots/result2.png)
+
+### 7. Analysis Result — Suggestions
+
+![Result Suggestions](screenshots/result3.png)
+
+### 8. Full Application — Without Result
+
+![Full Application](screenshots/full_page.png)
+
+### 9. Full Application — With Result
+
+![Full Application With Result](screenshots/full_result.png)
+
+
+
 ## Future Improvements
 
 * Improve match-score calculation
