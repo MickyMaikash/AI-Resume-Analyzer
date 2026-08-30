@@ -1,4 +1,4 @@
-# Resume Analyzer
+# AI Resume Analyzer
 
 An AI-powered resume analyzer that compares a candidate's resume with a job description and provides a structured analysis of how well the resume matches the job requirements.
 
@@ -67,7 +67,7 @@ React Result Dashboard
 ## Project Structure
 
 ```text
-ResumeAnalyzer/
+AI-Resume-Analyzer/
 │
 ├── backend/
 │   ├── main.py
